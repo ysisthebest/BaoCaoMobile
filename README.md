@@ -1,4 +1,4 @@
-# Xây dựng App Quản lý Chi tiêu Cá nhân
+# Đề tài: Xây dựng App Quản lý Chi tiêu Cá nhân
 
 Ứng dụng di động giúp theo dõi thu–chi, phân loại theo danh mục, đặt ngân sách theo tháng, xem thống kê và nhận cảnh báo khi chi tiêu gần hoặc vượt hạn mức.
 
@@ -33,7 +33,7 @@
 
 | Thành viên | MSSV | Nhiệm vụ cụ thể |
 |------------|------|------------------|
-| **Nguyễn Thanh Tịnh** | 23810310439 | Thiết kế layout (`design/figma`); màn Tổng quan, Giao dịch; biểu đồ (`BarChart`, `ExpensePieChart`); component UI dùng chung; biên tập README và báo cáo. |
+| **Nguyễn Thanh Tịnh** | 23810310439 | Thiết kế layout (`design/figma`); màn Tổng quan, Giao dịch; biểu đồ (`BarChart`, `ExpensePieChart`); component UI dùng chung; tổng hợp README và báo cáo. |
 | **Ngô Xuân Trường** | 23810310345 | Hook `useFinanceApp`; tích hợp AsyncStorage; đăng ký/đăng nhập; `utils/selectors.js`, `utils/formatters.js`; xử lý thống kê và cảnh báo ngân sách. |
 | **Nguyễn Hoàng Việt** | 23810310438 | Màn Ngân sách, Danh mục, Báo động, Tài khoản, Thêm/sửa giao dịch; form (`DatePickerField`, `MonthYearPickerField`, `PillSelector`); thanh điều hướng `BottomNav`. |
 
@@ -180,5 +180,7 @@ Sau khi đăng ký, dùng cùng email/mật khẩu để **đăng nhập** ở c
 
 
 ## Link video demo
+
+**Link :** https://drive.google.com/file/d/1s7F7QQZcVwZbN-2ydq_s3-EP-WI46HY5/view?usp=sharing
 
 

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <defs>
+    <style>
+      text { font-family: "Segoe UI", Arial, sans-serif; }
+      .bg { fill: #0f1720; }
+      .surface { fill: #f6f1e8; }
+      .surface-muted { fill: #ebe1d2; }
+      .soft-card { fill: #fbf5eb; stroke: #efe0cc; stroke-width: 1; }
+      .field { fill: #fcf6ed; stroke: #dbcdbb; stroke-width: 1; }
+      .ghost { fill: #fffaf2; stroke: #dbcdbb; stroke-width: 1; }
+      .hero-green { fill: #193a36; }
+      .hero-slate { fill: #263640; }
+      .dark { fill: #15242a; }
+      .dark-soft { fill: #22313b; stroke: #314756; stroke-width: 1; }
+      .green { fill: #d7eadf; }
+      .orange { fill: #ffd8b0; }
+      .warning { fill: #fff4e8; stroke: #f1cfab; stroke-width: 1; }
+      .danger-card { fill: #ffe8e1; stroke: #eab8aa; stroke-width: 1; }
+      .track { fill: #eadfce; }
+      .success-fill { fill: #2f7d4f; }
+      .accent-fill { fill: #ff7a30; }
+      .danger-fill { fill: #b54a25; }
+      .stroke-line { stroke: #efe5d7; stroke-width: 1; }
+      .t-on-dark { fill: #f8f4ec; }
+      .t-primary { fill: #1b1b1b; }
+      .t-secondary { fill: #6a6256; }
+      .t-accent { fill: #ca5a1d; }
+      .t-success { fill: #2f7d4f; }
+      .t-danger { fill: #b54a25; }
+      .eyebrow { font-size: 12px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; }
+      .h1 { font-size: 30px; font-weight: 800; }
+      .h1-sm { font-size: 28px; font-weight: 800; }
+      .h2 { font-size: 20px; font-weight: 800; }
+      .title { font-size: 16px; font-weight: 800; }
+      .label { font-size: 13px; font-weight: 700; }
+      .body { font-size: 13px; font-weight: 600; }
+      .small { font-size: 12px; font-weight: 700; }
+      .tiny { font-size: 11px; font-weight: 600; }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="390" height="844" />
+  
+  <g transform="translate(20 44)">
+    <text class="t-on-dark h1-sm" x="0" y="34" text-anchor="start">Ngân sách</text>
+    <rect class="dark-soft" x="226" y="0" width="124" height="40" rx="16" />
+    <text class="t-on-dark tiny" x="288" y="25" text-anchor="middle">Quản lý danh mục</text>
+
+    <rect class="surface" x="0" y="58" width="350" height="240" rx="24" />
+    <text class="t-primary h2" x="16" y="90" text-anchor="start">Tạo ngân sách mới</text>
+    <text class="t-primary label" x="16" y="122" text-anchor="start">Danh mục</text>
+    <rect class="dark" x="16" y="132" width="92" height="34" rx="17" />
+    <text class="t-on-dark small" x="62" y="154" text-anchor="middle">Ăn uống</text>
+    <rect class="ghost" x="116" y="132" width="82" height="34" rx="17" />
+    <text class="t-secondary small" x="157" y="154" text-anchor="middle">Nhà ở</text>
+    <rect class="ghost" x="206" y="132" width="74" height="34" rx="17" />
+    <text class="t-secondary small" x="243" y="154" text-anchor="middle">Khác</text>
+    <text class="t-primary label" x="16" y="198" text-anchor="start">Tháng</text>
+    <rect class="field" x="16" y="208" width="318" height="42" rx="16" />
+    <text class="t-primary body" x="28" y="234" text-anchor="start">2026-05</text>
+    <text class="t-primary label" x="16" y="272" text-anchor="start">Hạn mức</text>
+    <rect class="field" x="16" y="282" width="318" height="42" rx="16" />
+    <text class="t-secondary body" x="28" y="308" text-anchor="start">2000000</text>
+    <rect x="16" y="340" width="318" height="48" rx="18" fill="#ff7a30" />
+    <text class="t-on-dark label" x="175" y="370" text-anchor="middle">Thêm ngân sách</text>
+
+    <rect class="surface" x="0" y="404" width="350" height="146" rx="24" />
+    <text class="t-primary title" x="16" y="436" text-anchor="start">Tiến độ ngân sách tháng hiện tại</text>
+    <rect class="soft-card" x="16" y="452" width="318" height="78" rx="18" />
+    <text class="t-primary title" x="28" y="478" text-anchor="start">Ăn uống</text>
+    <text class="t-success small" x="286" y="478" text-anchor="start">60%</text>
+    <text class="t-secondary body" x="28" y="502" text-anchor="start">Đã chi 1.200.000 / 2.000.000</text>
+    <rect x="28" y="514" width="278" height="10" rx="5" fill="#eadfce" />
+    <rect x="28" y="514" width="166" height="10" rx="5" fill="#2f7d4f" />
+
+    <rect class="surface" x="0" y="566" width="350" height="178" rx="24" />
+    <text class="t-primary h2" x="16" y="598" text-anchor="start">Tất cả ngân sách</text>
+    <text class="t-primary title" x="16" y="634" text-anchor="start">Ăn uống</text>
+    <text class="t-secondary body" x="16" y="654" text-anchor="start">2026-05 • 2.000.000 đ</text>
+    <text class="t-accent small" x="274" y="642" text-anchor="start">Sửa</text>
+    <text class="t-danger small" x="308" y="642" text-anchor="start">Xóa</text>
+    <line class="stroke-line" x1="16" y1="668" x2="334" y2="668" />
+    <text class="t-primary title" x="16" y="700" text-anchor="start">Nhà ở</text>
+    <text class="t-secondary body" x="16" y="720" text-anchor="start">2026-05 • 1.500.000 đ</text>
+    <text class="t-accent small" x="274" y="708" text-anchor="start">Sửa</text>
+    <text class="t-danger small" x="308" y="708" text-anchor="start">Xóa</text>
+  </g>
+  
+  <rect x="0" y="760" width="390" height="84" fill="rgba(15,23,32,0.92)" />
+  <rect x="14" y="772" width="362" height="56" rx="28" fill="#111b22" stroke="#223240" stroke-width="1" />
+  <text class="t-secondary tiny" x="55" y="807" text-anchor="middle">Tổng quan</text>
+<text class="t-secondary tiny" x="135" y="807" text-anchor="middle">Giao dịch</text>
+<text class="t-secondary tiny" x="228" y="807" text-anchor="middle">Thông báo</text>
+<text class="t-on-dark tiny" x="315" y="807" text-anchor="middle">Ngân sách</text>
+  
+  
+</svg>

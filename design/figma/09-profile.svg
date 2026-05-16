@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+  <defs>
+    <style>
+      text { font-family: "Segoe UI", Arial, sans-serif; }
+      .bg { fill: #0f1720; }
+      .surface { fill: #f6f1e8; }
+      .surface-muted { fill: #ebe1d2; }
+      .soft-card { fill: #fbf5eb; stroke: #efe0cc; stroke-width: 1; }
+      .field { fill: #fcf6ed; stroke: #dbcdbb; stroke-width: 1; }
+      .ghost { fill: #fffaf2; stroke: #dbcdbb; stroke-width: 1; }
+      .hero-green { fill: #193a36; }
+      .hero-slate { fill: #263640; }
+      .dark { fill: #15242a; }
+      .dark-soft { fill: #22313b; stroke: #314756; stroke-width: 1; }
+      .green { fill: #d7eadf; }
+      .orange { fill: #ffd8b0; }
+      .warning { fill: #fff4e8; stroke: #f1cfab; stroke-width: 1; }
+      .danger-card { fill: #ffe8e1; stroke: #eab8aa; stroke-width: 1; }
+      .track { fill: #eadfce; }
+      .success-fill { fill: #2f7d4f; }
+      .accent-fill { fill: #ff7a30; }
+      .danger-fill { fill: #b54a25; }
+      .stroke-line { stroke: #efe5d7; stroke-width: 1; }
+      .t-on-dark { fill: #f8f4ec; }
+      .t-primary { fill: #1b1b1b; }
+      .t-secondary { fill: #6a6256; }
+      .t-accent { fill: #ca5a1d; }
+      .t-success { fill: #2f7d4f; }
+      .t-danger { fill: #b54a25; }
+      .eyebrow { font-size: 12px; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; }
+      .h1 { font-size: 30px; font-weight: 800; }
+      .h1-sm { font-size: 28px; font-weight: 800; }
+      .h2 { font-size: 20px; font-weight: 800; }
+      .title { font-size: 16px; font-weight: 800; }
+      .label { font-size: 13px; font-weight: 700; }
+      .body { font-size: 13px; font-weight: 600; }
+      .small { font-size: 12px; font-weight: 700; }
+      .tiny { font-size: 11px; font-weight: 600; }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="390" height="844" />
+  
+  <g transform="translate(20 44)">
+    <text class="t-on-dark h1-sm" x="0" y="34" text-anchor="start">Tài khoản</text>
+    <rect class="dark" x="0" y="58" width="350" height="112" rx="26" />
+    <circle cx="50" cy="114" r="32" fill="#385463" />
+    <circle cx="50" cy="106" r="12" fill="#d9e3de" />
+    <path d="M 30 132 C 36 118, 64 118, 70 132" fill="#d9e3de" />
+    <text class="t-on-dark h2" x="96" y="108" text-anchor="start">Tinh Nguyen</text>
+    <text class="t-on-dark body" x="96" y="136" text-anchor="start">tinh@example.com</text>
+
+    <rect class="surface" x="0" y="188" width="350" height="138" rx="24" />
+    <text class="t-primary h2" x="16" y="220" text-anchor="start">Thông tin tài khoản</text>
+    <text class="t-primary body" x="16" y="252" text-anchor="start">Danh mục thu nhập: 4</text>
+    <text class="t-primary body" x="16" y="280" text-anchor="start">Danh mục chi tiêu: 8</text>
+    <text class="t-primary body" x="16" y="308" text-anchor="start">Tổng số giao dịch: 24</text>
+
+    <rect class="surface" x="0" y="344" width="350" height="116" rx="24" />
+    <text class="t-primary h2" x="16" y="376" text-anchor="start">Phiên đăng nhập</text>
+    <rect class="dark" x="16" y="396" width="318" height="48" rx="18" />
+    <text class="t-on-dark label" x="175" y="426" text-anchor="middle">Đăng xuất</text>
+  </g>
+  
+</svg>

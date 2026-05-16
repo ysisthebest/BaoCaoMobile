@@ -177,7 +177,9 @@ Sau khi đăng ký, dùng cùng email/mật khẩu để **đăng nhập** ở c
   <img src="design/taikhoan.jpg" width="200" alt="Tài khoản" />
 </p>
 
+## Link Figma
 
+**Link :** https://www.figma.com/design/pggEQJpMs0x915AJBIKE5f/quanlict-final?node-id=0-1&p=f&t=3lNPguiFiVXeppka-0
 
 ## Link video demo
 
